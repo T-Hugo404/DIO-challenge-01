@@ -1,7 +1,6 @@
-# 
-#### 
 
-## PS: Essa linha em especial existe apenas para que eu tenha algo para fazer commit :)
+
+## Olá
 # 📌 DIO-challenge-01
 
 > Um repositório de teste, criado para salvar alguns projetos iniciais do curso de back-end com java fornecido pela DIO.
